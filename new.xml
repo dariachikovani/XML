@@ -1,4 +1,8 @@
-<full_name>Chikovani Daria Alexandrovna</full_name>
-<age>35</age>
-<pets>1</pets>
-<salary>700</salary>
+
+<personal_information>
+    <full_name>Chikovani Daria Alexandrovna</full_name>
+    <age>35</age>
+    <pets>1</pets>
+    <salary>700</salary>
+</personal_information>
+
