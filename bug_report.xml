@@ -1,1 +1,17 @@
-
+<bug_report>
+  <ID>Уникальный номер отчета</ID>
+  <Title>Что происходит,где происходит, когда происходит</Title>
+  <Project_name>Официальное название проекта</Project_name>
+  <Build_number>Номер версии</Build_number>
+  <Environment>Окружение</Environment>
+  <Severity>Критичность</Severity>
+  <Priority>Приоритет</Priority>
+  <Status>Статус</Status>
+  <Author>Автор</Author>
+  <Assignet_to>Разработчик</Assignet_to>
+  <STR>Шаги к воспроизведению</STR>
+  <Actual result>Фактический результат</Actual result>
+  <Expected result>Ожидаемы результат</Expected result>
+  <Attachments>Ссылка на фото или фидео</Attachments>
+  <Reported_On>Дата</Reported_On>
+</bug_report>  
